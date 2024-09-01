@@ -1,0 +1,83 @@
+# Compiled source #
+###################
+*.class
+*.o
+*.so
+*.obj
+*.dll
+*.exe
+
+# Packages #
+############
+*.jar
+*.war
+*.ear
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+Icon?
+.Spotlight-V100
+.Trashes
+
+# IDEs and editors #
+####################
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Dependency directories #
+###########################
+node_modules/
+vendor/
+bower_components/
+
+# Python #
+##########
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtualenv #
+##############
+.venv/
+venv/
+ENV/
+env/
+
+# Mac OS X specific files #
+###########################
+*.DS_Store
+
+# Temporary files #
+###################
+*.swp
+*.tmp
+*.temp
+~*
+
+# Build directories #
+#####################
+build/
+dist/
+out/
+
+# By JetBrains IDEs #
+#####################
+*.iml
+.idea/
+*.ipr
+*.iws
